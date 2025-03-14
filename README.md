@@ -1,4 +1,5 @@
 # HEART-DISEASE-PREDICTION-USING-SEVERAL-CLASSIFICATION-MODELS
+CS513-B | KNOWLEDGE DISCOVERY AND DATA MINING Project | HEART-DISEASE-PREDICTION | Members: KUMAR ROUSHAN, ISHAN ARYENDU, SABAH AHMED , ZHU LI   
 
 ## ***Problem Statement:***
 Heart disease is one of the leading causes of death globally, and early detection is crucial for effective treatment and management. The goal of this project is to develop a predictive model using different classificaton model to identify the likelihood of a patient having heart disease based on a set of clinical and demographic features. 
